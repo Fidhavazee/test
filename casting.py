@@ -14,5 +14,5 @@ print(x)
 z=int(3.0)
 print(z)
 y=float(6)
-print(y)
+print(y);;;;
 
